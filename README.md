@@ -13,3 +13,7 @@ https://github.com/Estibalyz/MineriaDeDatos/blob/master/Avance1-PIA_10_003.pdf
 
 avance pryecto 2
 https://github.com/Estibalyz/MineriaDeDatos/blob/master/AvancePIA_II_003_10_final.ipynb
+
+
+Poster Proyecto Final
+https://github.com/Estibalyz/MineriaDeDatos/blob/master/Poster_003_10.pdf
